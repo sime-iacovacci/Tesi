@@ -3,6 +3,9 @@ Progetto di tesi Iacovacci:
 
 To-do list:
   
--accuracy curves for different RTs
+-accuracy distribution for different RTs
+  - function(?)
+  
+-accuracy distribution for different models I-R
 
--accuracy distribution for different models
+- 
